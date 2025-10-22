@@ -1,0 +1,14 @@
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\bin\Debug\net9.0\EscolaNotas.exe
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\bin\Debug\net9.0\EscolaNotas.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\bin\Debug\net9.0\EscolaNotas.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\bin\Debug\net9.0\EscolaNotas.dll
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\bin\Debug\net9.0\EscolaNotas.pdb
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.dll
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\refint\EscolaNotas.dll
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.pdb
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\EscolaNotas.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\EscolaNotas\obj\Debug\net9.0\ref\EscolaNotas.dll
