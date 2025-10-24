@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Hello")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MenuComSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d9cddb383256f79ef32f465a717c456c667031")]
-[assembly: System.Reflection.AssemblyProductAttribute("Hello")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Hello")]
+[assembly: System.Reflection.AssemblyProductAttribute("MenuComSwitch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MenuComSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

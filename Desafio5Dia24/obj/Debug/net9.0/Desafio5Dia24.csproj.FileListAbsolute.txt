@@ -1,0 +1,15 @@
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\bin\Debug\net9.0\Desafio5Dia24.exe
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\bin\Debug\net9.0\Desafio5Dia24.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\bin\Debug\net9.0\Desafio5Dia24.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\bin\Debug\net9.0\Desafio5Dia24.dll
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\bin\Debug\net9.0\Desafio5Dia24.pdb
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.dll
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\refint\Desafio5Dia24.dll
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.pdb
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\Desafio5Dia24.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\Desafio5Dia24\obj\Debug\net9.0\ref\Desafio5Dia24.dll
