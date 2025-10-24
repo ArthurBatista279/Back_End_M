@@ -1,0 +1,15 @@
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\bin\Debug\net9.0\cadastroDeAlunos.exe
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\bin\Debug\net9.0\cadastroDeAlunos.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\bin\Debug\net9.0\cadastroDeAlunos.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\bin\Debug\net9.0\cadastroDeAlunos.dll
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\bin\Debug\net9.0\cadastroDeAlunos.pdb
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.dll
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\refint\cadastroDeAlunos.dll
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.pdb
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\cadastroDeAlunos.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\cadastroDeAlunos\obj\Debug\net9.0\ref\cadastroDeAlunos.dll

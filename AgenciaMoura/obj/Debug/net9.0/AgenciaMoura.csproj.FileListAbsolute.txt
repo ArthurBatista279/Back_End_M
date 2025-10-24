@@ -1,0 +1,15 @@
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\bin\Debug\net9.0\AgenciaMoura.exe
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\bin\Debug\net9.0\AgenciaMoura.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\bin\Debug\net9.0\AgenciaMoura.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\bin\Debug\net9.0\AgenciaMoura.dll
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\bin\Debug\net9.0\AgenciaMoura.pdb
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.dll
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\refint\AgenciaMoura.dll
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.pdb
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\AgenciaMoura\obj\Debug\net9.0\ref\AgenciaMoura.dll

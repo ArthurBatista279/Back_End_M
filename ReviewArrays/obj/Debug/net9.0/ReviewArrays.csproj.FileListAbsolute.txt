@@ -1,0 +1,5 @@
+C:\Users\54534361823\Desktop\Back_End_M\ReviewArrays\obj\Debug\net9.0\ReviewArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\ReviewArrays\obj\Debug\net9.0\ReviewArrays.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\ReviewArrays\obj\Debug\net9.0\ReviewArrays.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\ReviewArrays\obj\Debug\net9.0\ReviewArrays.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\ReviewArrays\obj\Debug\net9.0\ReviewArrays.sourcelink.json
