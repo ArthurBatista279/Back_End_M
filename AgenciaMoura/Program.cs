@@ -3,10 +3,10 @@ double[] saldos = new double[5];
 int totalClientes = 0;
 int opcao = -1;
 
-while (opcao != 0)
+do
 {
     Console.Clear();
-    Console.WriteLine("Sistema Bancário Simples");
+    Console.WriteLine("==== Sistema Bancário Simples ====");
     Console.WriteLine("1 - Cadastrar Cliente");
     Console.WriteLine("2 - Depositar");
     Console.WriteLine("3 - Sacar");
@@ -18,6 +18,10 @@ while (opcao != 0)
 
     switch (opcao)
     {
+        case 0:
+            Console.WriteLine("Encerrando o sistema...");
+            break;
+
         case 1:
             CadastrarCliente();
             break;
@@ -38,181 +42,171 @@ while (opcao != 0)
             ListarClientes();
             break;
 
-        case 0:
-            Console.WriteLine("Encerrando o sistema...");
-            break;
-
         default:
-            Console.WriteLine("Opção inválida! Tente novamente.");
+            Console.WriteLine("Opção inválida!");
+            Console.ReadLine();
             break;
     }
 
-    Console.WriteLine("Pressione <Enter> para continuar...");
-    Console.ReadLine();
-}
+} while (opcao != 0);
 
 void CadastrarCliente()
 {
     Console.Clear();
-    Console.WriteLine("Cadastro de Cliente");
+    Console.WriteLine("== Cadastro de Cliente ==");
 
     if (totalClientes >= nomes.Length)
     {
         Console.WriteLine("Limite de clientes atingido!");
-        return;
+    }
+    else
+    {
+        Console.Write("Digite o nome do cliente: ");
+        nomes[totalClientes] = Console.ReadLine();
+
+        Console.Write("Digite o saldo inicial: ");
+        saldos[totalClientes] = double.Parse(Console.ReadLine());
+
+        totalClientes++;
+
+        Console.WriteLine("Cliente cadastrado com sucesso!");
     }
 
-    Console.Write("Digite o nome do cliente: ");
-    nomes[totalClientes] = Console.ReadLine();
-
-    Console.Write("Digite o saldo inicial: ");
-    saldos[totalClientes] = double.Parse(Console.ReadLine());
-
-    totalClientes++;
-
-    Console.WriteLine("Cliente cadastrado com sucesso!");
+    Console.WriteLine("Digite <Enter> para continuar...");
+    Console.ReadLine();
 }
 
 void ListarClientes()
 {
     Console.Clear();
-    Console.WriteLine("Lista de Clientes");
+    Console.WriteLine("== Lista de Clientes ==");
 
     if (totalClientes == 0)
     {
-        Console.WriteLine("Nenhum cliente cadastrado!");
-        return;
+        Console.WriteLine("Nenhum cliente cadastrado ainda!");
+    }
+    else
+    {
+        for (int i = 0; i < totalClientes; i++)
+        {
+            Console.WriteLine($"{i + 1} - Nome: {nomes[i]}, Saldo: R$ {saldos[i]}");
+        }
     }
 
-    for (int i = 0; i < totalClientes; i++)
-    {
-        Console.WriteLine($"{i + 1} - {nomes[i]} | Saldo: R$ {saldos[i]:F2}");
-    }
+    Console.WriteLine("Digite <Enter> para continuar...");
+    Console.ReadLine();
 }
 
 void Depositar()
 {
     Console.Clear();
-    Console.WriteLine("Depósito");
+    Console.WriteLine("== Depósito ==");
 
     if (totalClientes == 0)
     {
         Console.WriteLine("Nenhum cliente cadastrado!");
-        return;
     }
-
-    ListarClientes();
-    Console.Write("Escolha o número do cliente para depósito: ");
-    int indice = int.Parse(Console.ReadLine()) - 1;
-
-    if (indice < 0 || indice >= totalClientes)
+    else
     {
-        Console.WriteLine("Cliente inválido!");
-        return;
+        ListarClientes();
+
+        Console.Write("Escolha o número do cliente: ");
+        int indice = int.Parse(Console.ReadLine()) - 1;
+
+        if (indice < 0 || indice >= totalClientes)
+        {
+            Console.WriteLine("Cliente inválido!");
+        }
+        else
+        {
+            Console.Write("Digite o valor do depósito: R$ ");
+            double valor = double.Parse(Console.ReadLine());
+
+            saldos[indice] += valor;
+
+            Console.WriteLine("Depósito realizado com sucesso!");
+        }
     }
 
-    Console.Write("Digite o valor do depósito: R$ ");
-    double valor = double.Parse(Console.ReadLine());
-
-    if (valor <= 0)
-    {
-        Console.WriteLine("Valor inválido!");
-        return;
-    }
-
-    saldos[indice] += valor;
-
-    Console.WriteLine($"Depósito realizado com sucesso! Novo saldo de {nomes[indice]}: R$ {saldos[indice]:F2}");
+    Console.WriteLine("Digite <Enter> para continuar...");
+    Console.ReadLine();
 }
 
 void Sacar()
 {
     Console.Clear();
-    Console.WriteLine("Saque");
+    Console.WriteLine("== Saque ==");
 
     if (totalClientes == 0)
     {
         Console.WriteLine("Nenhum cliente cadastrado!");
-        return;
     }
-
-    ListarClientes();
-    Console.Write("Escolha o número do cliente para saque: ");
-    int indice = int.Parse(Console.ReadLine()) - 1;
-
-    if (indice < 0 || indice >= totalClientes)
+    else
     {
-        Console.WriteLine("Cliente inválido!");
-        return;
+        ListarClientes();
+
+        Console.Write("Escolha o número do cliente: ");
+        int indice = int.Parse(Console.ReadLine()) - 1;
+
+        if (indice < 0 || indice >= totalClientes)
+        {
+            Console.WriteLine("Cliente inválido!");
+        }
+        else
+        {
+            Console.Write("Digite o valor do saque: R$ ");
+            double valor = double.Parse(Console.ReadLine());
+
+            if (valor <= saldos[indice])
+            {
+                saldos[indice] -= valor;
+                Console.WriteLine("Saque realizado com sucesso!");
+            }
+            else
+            {
+                Console.WriteLine("Saldo insuficiente!");
+            }
+        }
     }
 
-    Console.Write("Digite o valor do saque: R$ ");
-    double valor = double.Parse(Console.ReadLine());
-
-    if (valor <= 0)
-    {
-        Console.WriteLine("Valor inválido!");
-        return;
-    }
-
-    if (valor > saldos[indice])
-    {
-        Console.WriteLine("Saldo insuficiente!");
-        return;
-    }
-
-    saldos[indice] -= valor;
-
-    Console.WriteLine($"Saque realizado com sucesso! Novo saldo de {nomes[indice]}: R$ {saldos[indice]:F2}");
+    Console.WriteLine("Digite <Enter> para continuar...");
+    Console.ReadLine();
 }
 
 void Transferir()
 {
     Console.Clear();
-    Console.WriteLine("Transferência");
+    Console.WriteLine("== Transferência ==");
 
     if (totalClientes < 2)
     {
         Console.WriteLine("É necessário pelo menos 2 clientes cadastrados!");
-        return;
     }
-
-    ListarClientes();
-    Console.Write("Escolha o número do cliente que vai enviar: ");
-    int origem = int.Parse(Console.ReadLine()) - 1;
-
-    Console.Write("Escolha o número do cliente que vai receber: ");
-    int destino = int.Parse(Console.ReadLine()) - 1;
-
-    if (origem < 0 || origem >= totalClientes || destino < 0 || destino >= totalClientes)
+    else
     {
-        Console.WriteLine("Cliente inválido!");
-        return;
+        ListarClientes();
+
+        Console.Write("De quem vai enviar: ");
+        int origem = int.Parse(Console.ReadLine()) - 1;
+
+        Console.Write("Para quem vai receber: ");
+        int destino = int.Parse(Console.ReadLine()) - 1;
+
+        Console.Write("Digite o valor da transferência: R$ ");
+        double valor = double.Parse(Console.ReadLine());
+
+        if (valor <= saldos[origem])
+        {
+            saldos[origem] -= valor;
+            saldos[destino] += valor;
+            Console.WriteLine("Transferência feita com sucesso!");
+        }
+        else
+        {
+            Console.WriteLine("Saldo insuficiente!");
+        }
     }
 
-    if (origem == destino)
-    {
-        Console.WriteLine("Não é possível transferir para o mesmo cliente!");
-        return;
-    }
-
-    Console.Write("Digite o valor da transferência: R$ ");
-    double valor = double.Parse(Console.ReadLine());
-
-    if (valor <= 0)
-    {
-        Console.WriteLine("Valor inválido!");
-        return;
-    }
-
-    if (valor > saldos[origem])
-    {
-        Console.WriteLine("Saldo insuficiente para transferência!");
-        return;
-    }
-
-    saldos[origem] -= valor;
-    saldos[destino] += valor;
-
-    Console.WriteLine($"Transferência de R$ {valor:F2} realizada de {nomes[origem]} para {nomes[destino]} com sucesso!");
+    Console.WriteLine("Digite <Enter> para continuar...");
+    Console.ReadLine();
 }

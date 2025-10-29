@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgenciaMoura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad25e306ca60609bcfe372bcf742b64618f9d75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0dcab7a14fea990adc1b56faac97b001f4363e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgenciaMoura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgenciaMoura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
