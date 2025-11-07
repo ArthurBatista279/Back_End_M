@@ -3,3 +3,13 @@ C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\Prim
 C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.AssemblyInfo.cs
 C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.csproj.CoreCompileInputs.cache
 C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.exe
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\bin\Debug\net9.0\PrimeiraClasse.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\refint\PrimeiraClasse.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\PrimeiraClasse.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PrimeiraClasse\obj\Debug\net9.0\ref\PrimeiraClasse.dll

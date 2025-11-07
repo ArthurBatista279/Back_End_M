@@ -1,0 +1,15 @@
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\bin\Debug\net9.0\Herenca.exe
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\bin\Debug\net9.0\Herenca.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\bin\Debug\net9.0\Herenca.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\bin\Debug\net9.0\Herenca.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\bin\Debug\net9.0\Herenca.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\refint\Herenca.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\Herenca.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\Herenca\obj\Debug\net9.0\ref\Herenca.dll

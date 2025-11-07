@@ -1,4 +1,4 @@
-﻿Console.WriteLine("          Bem Vindo, Usuário");
+﻿Console.WriteLine("Bem Vindo, Usuário");
 Console.WriteLine("Escolha uma opção:");
 Console.WriteLine("1) Opção 1");
 Console.WriteLine("2) Opção 2");
