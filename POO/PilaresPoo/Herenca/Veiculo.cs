@@ -7,7 +7,7 @@ namespace Herenca
         public string Modelo;
         public int Ano;
 
-        public void()
+        public void Acelarar()
         {
             Console.WriteLine($"Acelerando");
         }

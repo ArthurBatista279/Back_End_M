@@ -1,5 +1,3 @@
-using System;
-
 public class Conta
 {
     public int Numero;
