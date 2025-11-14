@@ -1,0 +1,15 @@
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\bin\Debug\net9.0\ExercicioPolimorFismo.exe
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\bin\Debug\net9.0\ExercicioPolimorFismo.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\bin\Debug\net9.0\ExercicioPolimorFismo.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\bin\Debug\net9.0\ExercicioPolimorFismo.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\bin\Debug\net9.0\ExercicioPolimorFismo.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\refint\ExercicioPolimorFismo.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ExercicioPolimorFismo.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\ExercicioPolimorFismo\obj\Debug\net9.0\ref\ExercicioPolimorFismo.dll
