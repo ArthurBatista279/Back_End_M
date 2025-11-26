@@ -1,0 +1,15 @@
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\bin\Debug\net9.0\ClassesEstáticas+Encapsulamento.exe
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\bin\Debug\net9.0\ClassesEstáticas+Encapsulamento.deps.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\bin\Debug\net9.0\ClassesEstáticas+Encapsulamento.runtimeconfig.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\bin\Debug\net9.0\ClassesEstáticas+Encapsulamento.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\bin\Debug\net9.0\ClassesEstáticas+Encapsulamento.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.AssemblyInfo.cs
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.sourcelink.json
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\refint\ClassesEstáticas+Encapsulamento.dll
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.pdb
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ClassesEstáticas+Encapsulamento.genruntimeconfig.cache
+C:\Users\54534361823\Desktop\Back_End_M\POO\PilaresPoo\ClassesEstáticas+Encapsulamento\obj\Debug\net9.0\ref\ClassesEstáticas+Encapsulamento.dll
