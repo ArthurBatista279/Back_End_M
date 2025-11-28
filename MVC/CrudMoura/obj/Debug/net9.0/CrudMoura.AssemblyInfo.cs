@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ClassesEstáticas+Encapsulamento")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CrudMoura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c54bb4b9291cc06a77c8ea4d82d731beacfb5c93")]
-[assembly: System.Reflection.AssemblyProductAttribute("ClassesEstáticas+Encapsulamento")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ClassesEstáticas+Encapsulamento")]
+[assembly: System.Reflection.AssemblyProductAttribute("CrudMoura")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CrudMoura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
