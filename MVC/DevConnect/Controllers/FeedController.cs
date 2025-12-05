@@ -18,7 +18,7 @@ namespace DevConnect.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Feed()
         {
             return View();
         }

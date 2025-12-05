@@ -114,3 +114,4 @@ C:\Users\54534361823\Desktop\Back_End_M\MVC\DevConnect\obj\Debug\net9.0\compress
 C:\Users\54534361823\Desktop\Back_End_M\MVC\DevConnect\obj\Debug\net9.0\compressed\u5tofvrji4-0oj4ekoye8.gz
 C:\Users\54534361823\Desktop\Back_End_M\MVC\DevConnect\obj\Debug\net9.0\compressed\j9hnlid8s4-9hvjxs33pz.gz
 C:\Users\54534361823\Desktop\Back_End_M\MVC\DevConnect\obj\Debug\net9.0\compressed\vlinrkfmos-4eu0buqcrz.gz
+C:\Users\54534361823\Desktop\Back_End_M\MVC\DevConnect\obj\Debug\net9.0\compressed\y9jypbywv7-pd6m7rcq59.gz

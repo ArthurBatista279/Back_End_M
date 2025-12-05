@@ -12,21 +12,24 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-//acao padrao inicial
+
+  //ação padrão inicial
+
     public IActionResult Index()
     {
         return View();
     }
 
-    public IActionResult MinhaAcao()
+    public IActionResult Minhaacao()
     {
-        return View();
+        return View(); //retorne na pagina Minhaacao.cshtml
     }
+    
     public IActionResult ListarNomes()
     {
-        string[] nomes = {"Eduardo", "Maria", "Arthur"};
-        ViewBag.teste = "Ola, eu vim atraves da Viewbag";
-        ViewBag.nomes = nomes;
+        string[] nomes = {"Cauhê", "Anel", "Barney", "Salgado", "Ronaldo"};
+        ViewBag.Nomes = nomes; //guarda os nomes na viewbag
+        ViewBag.Teste = "Olá, eu caguei nas calças";
         return View();
     }
 

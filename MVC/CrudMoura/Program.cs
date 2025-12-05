@@ -1,7 +1,10 @@
+using CrudMoura.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<CrudMouraContext>();
 
 var app = builder.Build();
 
