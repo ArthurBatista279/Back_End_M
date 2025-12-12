@@ -3,6 +3,16 @@
 }
 
 <link rel="stylesheet" href="~/css/login.css">
+
+<script defer>
+
+    let MensagemSucesso = "@TempData[key: "MensagemSucesso"]";
+    if (MensagemSucesso == "Nao cadastrado") {
+        alert("Usuário cadastrado com sucesso!");
+    }
+
+</script>
+
 <h1>Tela principal login - DevConnect</h1>
 <main>
     <div>
@@ -24,12 +34,12 @@
 
             <p>ou</p>
 
-            <a asp-controller = "Suporte" asp-action="Suporte">Esqueceu a senha?</a>
+            <a asp-controller="Usuario" asp-action="Suporte">Esqueceu a senha?</a>
 
         </form>
 
         <section id="secao-cadastro" class="estilo-formulario">
-            <p>Não tem uma conta? <a asp-controller = "Cadastro" asp-action="Cadastro">Cadastre-se</a></p>
+            <p>Não tem uma conta? <a asp-controller="Usuario" asp-action="Cadastro">Cadastre-se</a></p>
         </section>
 
         <p>Obtenha o aplicativo</p>

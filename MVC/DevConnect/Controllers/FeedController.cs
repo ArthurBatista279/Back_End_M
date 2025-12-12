@@ -8,7 +8,6 @@ using Microsoft.Extensions.Logging;
 
 namespace DevConnect.Controllers
 {
-    [Route("[controller]")]
     public class FeedController : Controller
     {
         private readonly ILogger<FeedController> _logger;
@@ -18,7 +17,7 @@ namespace DevConnect.Controllers
             _logger = logger;
         }
 
-        public IActionResult Feed()
+        public IActionResult Index()
         {
             return View();
         }

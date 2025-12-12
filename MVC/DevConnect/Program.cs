@@ -1,4 +1,10 @@
+using DevConnect.Contexts;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<DevConnectContext>(options => builder.Configuration.GetConnectionString("DevCon_Windows")
+);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

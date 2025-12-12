@@ -1,0 +1,57 @@
+<link rel="stylesheet" href="~/css/global.css">
+<link rel="stylesheet" href="~/css/style.css">
+
+<section class="suporte-section">
+    <div class="suporte-container">
+        <h1>Suporte ao Cliente</h1>
+
+        <form>
+            <label for="campo-nomecompleto">Nome completo:</label>
+            <input class="Botões de interação" type="text" id="campo-nomecompleto"
+                placeholder="Digite seu nome completo">
+
+            <label for="campo-email">E-mail:</label>
+            <input class="Botões de interação" type="email" id="campo-email" placeholder="Digite seu e-mail">
+
+            <label for="campo-senha">Senha:</label>
+            <input class="Botões de interação" type="password" id="campo-senha" placeholder="Digite sua senha">
+
+            <label for="campo-upload">Upload:</label>
+            <input class="Botões de interação" type="file" id="campo-upload">
+
+            <label for="campo-estado">Estado:</label>
+            <select name="estado" id="campo-estado">
+                <option value="" selected disabled>Selecione uma Opção</option>
+                <option value="RJ">RJ</option>
+                <option value="SP">SP</option>
+                <option value="MG">MG</option>
+                <option value="AM">AM</option>
+            </select>
+
+            <div class="checkbox-container">
+                <input class="Botões de interação" type="checkbox" id="termos" name="termos">
+                <label for="termos">Li e concordo com os termos.</label>
+            </div>
+
+            <label>Sexo:</label>
+            <div class="radio-container">
+                <input class="Botões de interação" type="radio" name="sexo" id="sexo-feminino" value="Feminino">
+                <label for="sexo-feminino">Feminino</label>
+
+                <input class="Botões de interação" type="radio" name="sexo" id="sexo-masculino" value="Masculino">
+                <label for="sexo-masculino">Masculino</label>
+            </div>
+
+            <label for="campo-descricao">Descrição:</label>
+            <textarea name="descricao" id="campo-descricao" rows="4"></textarea>
+
+            <div class="button-container">
+                <button type="submit">Enviar</button>
+                <button type="reset">Limpar</button>
+            </div>
+
+            <a asp-controller="Home" asp-action="Index" target="_blank" class="voltar-link">Voltar ao Início</a>
+        </form>
+
+    </div>
+</section>
